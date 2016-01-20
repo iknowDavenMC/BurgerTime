@@ -1,0 +1,2 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger TimeContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger TimeContent\obj\x86\Release\ResolveAssemblyReference.cache

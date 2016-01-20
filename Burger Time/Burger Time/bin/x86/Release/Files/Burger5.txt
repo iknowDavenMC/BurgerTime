@@ -1,0 +1,25 @@
+Bottom Bun
+6 7
+10 7
+Lettuce
+6 2
+6 4
+10 3
+10 6
+Meat
+6 3
+6 5
+10 2
+10 4
+Tomato
+6 1
+6 6
+10 1
+10 5
+Top Bun
+6 0
+10 0
+Plate
+6 12
+10 12
+End

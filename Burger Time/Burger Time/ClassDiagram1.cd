@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Burger_Time.BottomBun" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Burger Parts\BottomBun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.BurgerPart" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAECAAAAAAgAgCAAApAAAACABAQAkAAABAABAQAA=</HashCode>
+      <FileName>Burger Parts\Burger Part.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Cheese" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Burger Parts\Cheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Lettuce" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Burger Parts\Lettuce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Meat" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Burger Parts\Meat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Tomato" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Burger Parts\Tomato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.TopBun" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Burger Parts\TopBun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Animation" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAgAAEAAQABAoEAAADAEAAAQBIAAgACAAAAQAA=</HashCode>
+      <FileName>Drawing\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.DrawingComponent" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAykAAEAgAAABgAggAIgIIQCAAAECBGgoQAxoAAIIAA=</HashCode>
+      <FileName>Drawing\DrawingComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.HUD" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYIQAAAAACAAwAAAAAIIA0AKASEAAAgAAABA4AAoEQ=</HashCode>
+      <FileName>Drawing\HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.PopUpHandler" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAA4AAAAAAIAAAAgAAACAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Drawing\PopUpHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.SpriteDatabase" Collapsed="true">
+    <Position X="24.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAABAAAAAAAAAAgAAAAAAGAAAAAAAAAAgAAQ=</HashCode>
+      <FileName>Drawing\SpriteDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Coffee" Collapsed="true">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Coffee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Egg" Collapsed="true">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Entities\Egg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Enemy" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAUCAAAEA4AAAAAAQAAAAAAAAAQAECAABAAAARAA=</HashCode>
+      <FileName>Entities\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Entity" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAoAAAACAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.FrenchFries" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\French Fries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.HotDog" Collapsed="true">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Entities\HotDog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.IceCream" Collapsed="true">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\IceCream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Pepper" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Pepper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.PeterPepper" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIRAQEAAAAAAAgAAEABABAAkAAAAAQAECAAAAAAAREA=</HashCode>
+      <FileName>Entities\PeterPepper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Pickle" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Entities\Pickle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Plate" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Plate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.PowerUp" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Entities\PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Game1" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAABwAAEAAAAAAEAAAAIAgAAAQgAAAAAAQ=</HashCode>
+      <FileName>Game Logic\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.World" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAFgABAAAABwAEgAAAAAACAAAAAYGBCIAAEAMAAAQ=</HashCode>
+      <FileName>Game Logic\World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.DataManager" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAIBABAgASBAoAAgAJANAAIADAAAgAAAAAEA=</HashCode>
+      <FileName>Managers\DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.InputManager" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAAAAAAgAAAAAABIBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Managers\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.SettingsManager" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAggAAAEoIADAAAAIAogACRCBAABAgAAAACAgAIAA=</HashCode>
+      <FileName>Managers\SettingsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.SoundManager" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAQAAAAAAAgABABAAAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Managers\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Map" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAGAAAUAAEAiAAAAUIAAADAABCQADB0AIAAAEagQU=</HashCode>
+      <FileName>Map\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.Program" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.BoundingRectangle" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwQAAIAAAAAAgAAAAAAAAAAGAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Tools\BoundingRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.FrameRate" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAACAAAAAAABCAAEAUAAAAAoAgAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Tools\FrameRate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Burger_Time.RectangleFloat" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAABAAAAAAAgAIUAEAAAAAIAAAACACAAAAYYIA=</HashCode>
+      <FileName>Tools\RectangleFloat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

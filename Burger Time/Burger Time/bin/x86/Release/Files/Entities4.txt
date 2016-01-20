@@ -1,0 +1,11 @@
+﻿Player
+8 7
+Hot Dog
+0 7
+0 0
+0 4
+Pickle
+16 4
+16 7
+16 0
+End

@@ -1,0 +1,47 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Fonts\Arcade.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Burger Time.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Burger Time.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\obj\x86\Debug\Burger Time.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\obj\x86\Debug\Burger Time.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Level.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Life.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Bottom Bun.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Cheese.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Dark Floor With Ladder.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Dark Floor.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Empty.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Ladder.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Lettuce.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Light Floor With Ladder.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Light Floor.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Meat.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Plate.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Tomato.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Top Bun.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Peter Pepper.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Blank.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Egg.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Hot Dog.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Pickle.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Pepper.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Power Ups.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Dead.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Level.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Menu.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Win.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Bounce.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Dead.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Game Start.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Pepper.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Peppered.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Power Up Appears.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Power Up Consumed.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Ride.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Sound Effects\Touch.xnb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Dead.wma
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Level.wma
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Menu.wma
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Songs\Win.wma
+C:\Users\David\Documents\Visual Studio 2010\Projects\Burger Time\Burger Time\Burger Time\bin\x86\Debug\Content\Images\Menu.xnb

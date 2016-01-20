@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Arcade.spritefont</Source>
+      <Name>Fonts\Arcade</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Fonts\Arcade.xnb</Output>
+      <Time>2013-04-23T20:47:18.7165881-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level.png</Source>
+      <Name>Images\Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Level.xnb</Output>
+      <Time>2013-04-26T17:15:21.1835563-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Life.png</Source>
+      <Name>Images\Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Life.xnb</Output>
+      <Time>2013-04-26T17:17:14.2140213-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bottom Bun.png</Source>
+      <Name>Images\Bottom Bun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Bottom Bun.xnb</Output>
+      <Time>2013-04-28T03:05:10.8201477-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Cheese.png</Source>
+      <Name>Images\Cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Cheese.xnb</Output>
+      <Time>2013-04-27T17:44:22.2500695-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark Floor With Ladder.png</Source>
+      <Name>Images\Dark Floor With Ladder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Dark Floor With Ladder.xnb</Output>
+      <Time>2013-04-24T17:09:28.7676734-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark Floor.png</Source>
+      <Name>Images\Dark Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Dark Floor.xnb</Output>
+      <Time>2013-04-24T17:10:36.1375268-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Empty.png</Source>
+      <Name>Images\Empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Empty.xnb</Output>
+      <Time>2013-04-24T17:10:53.2985083-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Ladder.png</Source>
+      <Name>Images\Ladder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Ladder.xnb</Output>
+      <Time>2013-04-24T17:08:35.5136275-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Lettuce.png</Source>
+      <Name>Images\Lettuce</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Lettuce.xnb</Output>
+      <Time>2013-04-27T23:34:13.6451987-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Light Floor With Ladder.png</Source>
+      <Name>Images\Light Floor With Ladder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Light Floor With Ladder.xnb</Output>
+      <Time>2013-04-24T17:09:59.1674122-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Light Floor.png</Source>
+      <Name>Images\Light Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Light Floor.xnb</Output>
+      <Time>2013-04-24T17:11:20.865085-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Meat.png</Source>
+      <Name>Images\Meat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Meat.xnb</Output>
+      <Time>2013-04-27T17:45:55.7614181-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Plate.png</Source>
+      <Name>Images\Plate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Plate.xnb</Output>
+      <Time>2013-04-27T17:46:53.4407171-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tomato.png</Source>
+      <Name>Images\Tomato</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Tomato.xnb</Output>
+      <Time>2013-04-27T17:47:38.2262787-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Top Bun.png</Source>
+      <Name>Images\Top Bun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Top Bun.xnb</Output>
+      <Time>2013-04-27T17:48:18.233567-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Peter Pepper.png</Source>
+      <Name>Images\Peter Pepper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Peter Pepper.xnb</Output>
+      <Time>2013-04-27T00:02:58.1173878-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Blank.png</Source>
+      <Name>Images\Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Blank.xnb</Output>
+      <Time>2013-04-26T14:13:40.8110906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Egg.png</Source>
+      <Name>Images\Egg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Egg.xnb</Output>
+      <Time>2013-04-26T18:05:57.7882401-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Hot Dog.png</Source>
+      <Name>Images\Hot Dog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Hot Dog.xnb</Output>
+      <Time>2013-04-26T18:04:03.8067208-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pickle.png</Source>
+      <Name>Images\Pickle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Pickle.xnb</Output>
+      <Time>2013-04-26T18:05:02.2070611-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pepper.png</Source>
+      <Name>Images\Pepper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Pepper.xnb</Output>
+      <Time>2013-04-27T00:14:58.1575718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power Ups.png</Source>
+      <Name>Images\Power Ups</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Power Ups.xnb</Output>
+      <Time>2013-04-27T01:46:33.7359009-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu.png</Source>
+      <Name>Images\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Images\Menu.xnb</Output>
+      <Time>2013-04-28T22:14:36.9688313-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Dead.mp3</Source>
+      <Name>Songs\Dead</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Dead.xnb</Output>
+      <Extra>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Dead.wma</Extra>
+      <Time>2013-04-28T22:06:53.3453136-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Level.mp3</Source>
+      <Name>Songs\Level</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Level.xnb</Output>
+      <Extra>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Level.wma</Extra>
+      <Time>2013-04-28T21:53:56.804898-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Menu.mp3</Source>
+      <Name>Songs\Menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Menu.xnb</Output>
+      <Extra>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Menu.wma</Extra>
+      <Time>2013-04-28T21:53:56.943906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Win.mp3</Source>
+      <Name>Songs\Win</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Win.xnb</Output>
+      <Extra>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Songs\Win.wma</Extra>
+      <Time>2013-04-28T21:53:57.0389114-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Bounce.wav</Source>
+      <Name>Sound Effects\Bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Bounce.xnb</Output>
+      <Time>2013-04-28T21:00:08.1652304-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Dead.wav</Source>
+      <Name>Sound Effects\Dead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Dead.xnb</Output>
+      <Time>2013-04-28T21:08:35.5802529-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Game Start.wav</Source>
+      <Name>Sound Effects\Game Start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Game Start.xnb</Output>
+      <Time>2013-04-28T21:20:12.5921197-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Pepper.wav</Source>
+      <Name>Sound Effects\Pepper</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Pepper.xnb</Output>
+      <Time>2013-04-28T21:57:16.8093376-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Peppered.wav</Source>
+      <Name>Sound Effects\Peppered</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Peppered.xnb</Output>
+      <Time>2013-04-28T21:07:17.6087932-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Power Up Appears.wav</Source>
+      <Name>Sound Effects\Power Up Appears</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Power Up Appears.xnb</Output>
+      <Time>2013-04-28T21:17:12.9168428-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Power Up Consumed.wav</Source>
+      <Name>Sound Effects\Power Up Consumed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Power Up Consumed.xnb</Output>
+      <Time>2013-04-28T21:18:27.2920969-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Ride.wav</Source>
+      <Name>Sound Effects\Ride</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Ride.xnb</Output>
+      <Time>2013-04-28T21:11:27.7581009-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Touch.wav</Source>
+      <Name>Sound Effects\Touch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\Sound Effects\Touch.xnb</Output>
+      <Time>2013-04-28T21:02:26.1811245-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger TimeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger TimeContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Documents\School\Concordia\Classes\COMP 477\Project\Burger Time\Burger Time\Burger Time\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-24T03:13:31.492351-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

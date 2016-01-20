@@ -1,0 +1,9 @@
+﻿Player
+8 9
+Egg
+16 9
+Hot Dog
+0 0
+0 9
+16 0
+End

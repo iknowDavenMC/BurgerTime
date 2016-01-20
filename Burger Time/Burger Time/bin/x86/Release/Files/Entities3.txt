@@ -1,0 +1,12 @@
+﻿Player
+8 11
+Egg
+0 9
+Hot Dog
+16 0
+16 9
+Pickle
+0 0
+0 7
+16 7
+End
